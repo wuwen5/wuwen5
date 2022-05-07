@@ -5,7 +5,7 @@
 
 I'm Wen Wu(文武). A Java Developer and Open Source Enthusiast from ChangSha (China)🇨🇳.
 
-📈 my github stats
+#### 📈 Github Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wuwen5&show_icons=true&include_all_commits=true&hide_border=true" alt="WenWu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuwen5&layout=compact&hide_border=true&show_icons=true" /></a> |
 | ------------- | ------------- |
 
@@ -26,7 +26,7 @@ I'm Wen Wu(文武). A Java Developer and Open Source Enthusiast from ChangSha (C
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
 
-## 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=wuwen5&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 

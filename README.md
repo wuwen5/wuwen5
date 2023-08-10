@@ -40,8 +40,8 @@ I'm Wen Wu(文武). A Java Developer and Open Source Enthusiast from ChangSha (C
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=transmittable-thread-local" />
 </a>
 
-<a href="https://github.com/apache/dubbo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=dubbo" />
+<a href="https://github.com/wuwen5/dubbo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wuwen5&repo=dubbo" />
 </a>
 
 <a href="https://github.com/apache/skywalking-java">

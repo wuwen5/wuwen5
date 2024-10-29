@@ -6,7 +6,7 @@
 I'm Wen Wu(文武). A Java Developer and Open Source Enthusiast from ChangSha (China)🇨🇳.
 
 #### 📈 Github Stats
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wuwen5&show_icons=true&hide_border=true" alt="WenWu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuwen5&layout=compact&hide_border=true&show_icons=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-alpha-inky.vercel.app/api?username=wuwen5&show_icons=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true" alt="WenWu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-alpha-inky.vercel.app/api/top-langs/?username=wuwen5&layout=compact&hide_border=true&show_icons=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide=HTML" /></a> |
 | ------------- | ------------- |
 
 ![](./profile-3d-contrib/profile-green-animate.svg)

@@ -31,34 +31,7 @@ I'm Wen Wu(文武). A Java Developer and Open Source Enthusiast from ChangSha (C
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
 
 #### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wuwen5&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-#### Top Repositories
-
-<a href="https://github.com/alibaba/transmittable-thread-local">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=transmittable-thread-local" />
-</a>
-
-<a href="https://github.com/wuwen5/dubbo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wuwen5&repo=dubbo" />
-</a>
-
-<a href="https://github.com/apache/skywalking-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=skywalking-java" />
-</a>
-
-<a href="https://github.com/SkyAPM/cpp2sky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkyAPM&repo=cpp2sky" />
-</a>
-
-<a href="https://github.com/mybatis/mybatis-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mybatis&repo=mybatis-3" />
-</a>
-
-<a href="https://github.com/modernizing/chapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modernizing&repo=chapi" />
-</a>
+[![trophy](https://trophy.ryglcloud.net/?username=wuwen5&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 <br />
